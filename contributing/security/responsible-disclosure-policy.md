@@ -1,8 +1,8 @@
 ---
-permalink: "/contributing/security/responsible-disclosure-policy/"
+permalink: /contributing/security/responsible-disclosure-policy/
 redirect_from:
-- "/contributing/security/responsibledisclosurepolicy"
-- "/contributing/security/responsibledisclosurepolicy/"
+  - /contributing/security/responsibledisclosurepolicy
+  - /contributing/security/responsibledisclosurepolicy/
 ---
 
 # Responsible Disclosure Policy

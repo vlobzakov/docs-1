@@ -1,7 +1,7 @@
 ---
-permalink: "/developer-guides/rest-api/permissions/list-all/"
+permalink: /developer-guides/rest-api/permissions/list-all/
 redirect_from:
-- "/developer-guides/rest-api/permissions/list/"
+  - /developer-guides/rest-api/permissions/list/
 ---
 
 # List Permissions
