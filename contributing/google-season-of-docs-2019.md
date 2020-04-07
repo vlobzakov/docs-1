@@ -1,7 +1,7 @@
 ---
-permalink: /contributing/google-season-of-docs-2019/
+permalink: "/contributing/google-season-of-docs-2019/"
 redirect_from:
-  - /contributing/google-season-of-docs/
+- "/contributing/google-season-of-docs/"
 ---
 
 # README

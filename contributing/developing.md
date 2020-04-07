@@ -1,5 +1,5 @@
 ---
-permalink: /contributing/developing/
+permalink: "/contributing/developing/"
 official: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-permalink: /administrator-guides/message-auditing/
+permalink: "/administrator-guides/message-auditing/"
 official: true
 enterprise: true
 ---

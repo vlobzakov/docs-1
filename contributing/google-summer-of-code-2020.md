@@ -1,7 +1,7 @@
 ---
-permalink: /contributing/google-summer-of-code-2020/
+permalink: "/contributing/google-summer-of-code-2020/"
 redirect_from:
-  - /contributing/google-summer-of-code/
+- "/contributing/google-summer-of-code/"
 ---
 
 # README
